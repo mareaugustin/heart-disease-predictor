@@ -18,3 +18,5 @@ Thumbs.db
 # Fichiers temporaires Jupyter
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+generate_report.py
+*.docx
